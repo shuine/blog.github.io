@@ -1,18 +1,18 @@
-title: John Smith
+title: Shine YE
 description: My Personal Blog
-author: John Smith
-logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/ashutosh2k12
-about: Freelance developer
+author: Shine
+logo: /static/img/avatar.png
+github: https://github.com/shuine
+about: Android developer
 
-baseurl: "https://codeasashu.github.io/hcz-jekyll-blog"
-url: "https://codeasashu.github.io/hcz-jekyll-blog"
+baseurl: "https://shuine.github.io/blog.github.io"
+url: "https://shuine.github.io/blog.github.io"
 
-disqus_shortname: aboutashu
+disqus_shortname: shine
 google_analytics: UA-72862926-1
 
 share:
-  twitter_username: \#
+  twitter_username: shine
   fb_appid: 000000000000
 
 
