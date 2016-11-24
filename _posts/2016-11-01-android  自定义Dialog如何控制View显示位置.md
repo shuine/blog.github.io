@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Test Page
-date:   2015-06-04 13:50:39
+title: android  自定义Dialog如何控制View显示位置
+date:   2016-06-01 13:50:39
 categories: others
 ---
 
-This is a test blog page where we can explore how to embedd images in the blog. 
 
 ## android  自定义Dialog如何控制View显示位置
 
